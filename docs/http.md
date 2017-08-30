@@ -8,7 +8,7 @@ Http网络连接类，支持GET/POST/PUT/DELETE，支持ajax()，formSubmit()，
 使用时需要在js中引入 ：
 
 ```javascript
-var http = require("Http"); 
+var Http = require("Http"); 
 ```
 
 **注：** 该组件为内置功能组件。
